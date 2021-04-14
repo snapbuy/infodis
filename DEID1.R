@@ -1,5 +1,5 @@
-setwd("D:/Naver MyBox/Lecture/KICT/data")
-df <- read.csv("arxTest.csv", header=TRUE)
+setwd("/Volumes/T7/infodis")
+df <- read.csv("arxTest.csv", header=TRUE, fileEncoding = "utf-8")
 
 library(sqldf)
 

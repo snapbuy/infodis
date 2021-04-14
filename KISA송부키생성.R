@@ -1,4 +1,4 @@
-setwd("D:/NaverCloud/Lecture/KICT/data")
+setwd("/Volumes/T7/infodis")
 dsn1 = read.csv("금융정보.csv", header = T, fileEncoding = "utf-8")
 dsn2 = read.csv("병원정보.csv", header = T, fileEncoding = "utf-8")
 

@@ -1,4 +1,4 @@
-setwd("D:/Lecture/DeID")
+setwd("/Volumes/T7/infodis")
 df <- read.csv("adult.csv", header=TRUE)
 summary(df)
 

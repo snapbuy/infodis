@@ -1,4 +1,4 @@
-setwd("D:/NaverCloud/Lecture/KICT/Data")
+setwd("/Volumes/T7/infodis")
 
 # KISA는 두 기관에서 받은 파일로 키와 ID 결합정보를 생성한다.
 key1 = read.csv("금융정보_key.csv", header = T, fileEncoding = "utf-8")

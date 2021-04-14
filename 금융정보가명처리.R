@@ -1,4 +1,4 @@
-setwd("D:/NaverCloud/Lecture/KICT/data")
+setwd("/Volumes/T7/infodis")
 dsn = read.csv("금융정보.csv", header = T, fileEncoding = "utf-8")
 library("dplyr")
 
