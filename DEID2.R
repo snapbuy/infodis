@@ -1,5 +1,5 @@
 setwd("/Volumes/T7/infodis")
-df <- read.csv("arxTest.csv", header=TRUE, fileEncoding = "utf-8")
+df <- read.csv("adultSalary.csv", header=TRUE, fileEncoding = "utf-8")
 summary(df)
 
 # Quasi-Identifier: age, workclass, marital_status, race, sex, native_country
